@@ -1,0 +1,2 @@
+Cmd+T                - open file using filter
+Alt+Cmd+[down]       - go to alternate file (e.g. controller <--> view)
