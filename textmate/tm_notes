@@ -9,5 +9,5 @@ Hash new             - Hash+[Tab]
 
 Commit 3:
 Cmd+Ctrl+R           - show file in drawer
-Alt+Cmd+[            - properly indent highlighted ines
+Alt+Cmd+[            - properly indent highlighted lines
 Alt+Cmd+]            - align assignments (=, =>)
