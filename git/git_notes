@@ -1,0 +1,9 @@
+Conflict is username when updating GitHub. Your computer may use wrong ID and return an error message such as:
+Permission denied ... 'gsargent', when it should be 'sargentg'.
+
+Git may be finding an ssh key on the keyring and using it. See Walter Mundt's answer:
+http://stackoverflow.com/questions/4665337/git-pushing-as-wrong-user
+
+Use the $ ssh-add command to find and remove the key:
+Find:   ssh-add -l    # list
+Remove: ssh-add -d your_keyring_file_path_and_name
