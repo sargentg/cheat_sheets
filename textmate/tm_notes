@@ -1,2 +1,8 @@
+Commit 1:
 Cmd+T                - open file using filter
 Alt+Cmd+[down]       - go to alternate file (e.g. controller <--> view)
+
+Commit 2:
+Hash rocket (=>)     - ^l (ell)
+Hash key => value    - :+[Tab]
+Hash new             - Hash+[Tab] 
